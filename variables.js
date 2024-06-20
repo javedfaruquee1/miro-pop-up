@@ -1,7 +1,7 @@
 /* variables.js */
 /* eslint-disable no-unused-vars */
 
-var MODAL_URL = 'replace with your "modal.html" URL from AWS S3'; // keep the single quotes around the value (e.g. 'https://miro-terms-banner-021ba44a2fc7.s3.eu-central-1.amazonaws.com/webassets/modal.html';)
+var MODAL_URL = 'https://miro-pop-up-dh3d3.kinsta.page/modal.html'; // keep the single quotes around the value (e.g. 'https://miro-terms-banner-021ba44a2fc7.s3.eu-central-1.amazonaws.com/webassets/modal.html';)
 
 var S3_RECORD_TERMS_ACCEPTANCE_ENDPOINT_URL =
   'replace with the value of "S3RecordTermsAcceptanceEndpointUrl" from your AWS SAM CLI Output'; // keep the single quotes around the value (e.g. 'https://e4g624kyue.execute-api.eu-central-1.amazonaws.com';)
